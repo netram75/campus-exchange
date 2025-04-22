@@ -18,7 +18,7 @@ A React-based marketplace for university students to buy, sell, and trade items 
   - Plain CSS (No UI frameworks)
 - Build Tool: Vite
 - Version Control: Git & GitHub
-#MADE WITH LOVE BY NETRAM
+  
 
 
 
